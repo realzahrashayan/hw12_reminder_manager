@@ -1,0 +1,157 @@
+2025-12-05 06:02:37,162 - INFO - the program is started
+2025-12-05 06:02:37,163 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:02:37,163 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:02:37,169 - INFO - the new reminder is created - id = 1 , title = practice python
+2025-12-05 06:02:37,170 - INFO - dailyreminder:practice python-situation:daily repeat is active
+2025-12-05 06:03:15,848 - INFO - the program is started
+2025-12-05 06:03:15,849 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:03:15,849 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:03:15,850 - INFO - the new reminder is created - id = 1 , title = practice python
+2025-12-05 06:03:15,851 - INFO - dailyreminder:practice python-situation:daily repeat is active
+2025-12-05 06:03:47,142 - INFO - the program is started
+2025-12-05 06:03:47,142 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:03:47,143 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:03:47,144 - INFO - the new reminder is created - id = 1 , title = practice python
+2025-12-05 06:03:47,144 - INFO - dailyreminder:practice python-situation:daily repeat is active
+2025-12-05 06:06:41,982 - INFO - the program is started
+2025-12-05 06:06:41,983 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:06:41,983 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:06:41,990 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 06:06:41,992 - INFO - dailyreminder : practice python-situation:daily repeat is active
+2025-12-05 06:40:48,613 - INFO - the program is started
+2025-12-05 06:40:48,614 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:40:48,614 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:40:48,615 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 06:40:48,615 - INFO - dailyreminder : practice python-situation:daily repeat is active
+2025-12-05 06:40:48,616 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 06:40:48,616 - INFO - meetingreminder : {message}
+2025-12-05 06:43:41,462 - INFO - the program is started
+2025-12-05 06:43:41,463 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:43:41,463 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:43:41,463 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 06:43:41,463 - INFO - dailyreminder : practice python-situation:daily repeat is active
+2025-12-05 06:43:41,464 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 06:43:41,464 - INFO - meetingreminder : {message}
+2025-12-05 06:43:41,464 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 06:43:57,001 - INFO - the program is started
+2025-12-05 06:43:57,002 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 06:43:57,002 - INFO - simplereminder : it's time to : buy bread
+2025-12-05 06:43:57,004 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 06:43:57,004 - INFO - dailyreminder : practice python-situation:daily repeat is active
+2025-12-05 06:43:57,005 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 06:43:57,005 - INFO - meetingreminder : {message}
+2025-12-05 06:43:57,005 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 06:43:57,005 - INFO - meetingreminder : {message}
+2025-12-05 08:51:41,998 - INFO - the program is started
+2025-12-05 08:51:41,998 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 08:51:41,998 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 08:51:41,998 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 08:51:41,998 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 08:51:53,965 - INFO - the program is started
+2025-12-05 08:51:53,967 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 08:51:53,968 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 08:51:53,968 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 08:51:53,969 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 08:51:53,969 - INFO - reminder with ID : 1 is added
+2025-12-05 08:51:53,969 - INFO - reminder with ID : 2 is added
+2025-12-05 08:51:53,969 - INFO - reminder with ID : 3 is added
+2025-12-05 08:51:53,969 - INFO - reminder with ID : 4 is added
+2025-12-05 08:52:17,727 - INFO - the program is started
+2025-12-05 08:52:17,728 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 08:52:17,729 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 08:52:17,729 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 08:52:17,729 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 08:52:17,729 - INFO - reminder with ID : 1 is added
+2025-12-05 08:52:17,729 - INFO - reminder with ID : 2 is added
+2025-12-05 08:52:17,729 - INFO - reminder with ID : 3 is added
+2025-12-05 08:52:17,729 - INFO - reminder with ID : 4 is added
+2025-12-05 08:54:48,193 - INFO - the program is started
+2025-12-05 08:54:48,193 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 08:54:48,193 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 08:54:48,193 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 08:54:48,193 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 08:54:48,193 - INFO - reminder with ID : 1 is added
+2025-12-05 08:54:48,194 - INFO - reminder with ID : 2 is added
+2025-12-05 08:54:48,194 - INFO - reminder with ID : 3 is added
+2025-12-05 08:54:48,194 - INFO - reminder with ID : 4 is added
+2025-12-05 09:01:52,708 - INFO - the program is started
+2025-12-05 09:01:52,708 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:01:52,708 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:01:52,708 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:01:52,708 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:01:52,710 - INFO - reminder with ID : 1 is added
+2025-12-05 09:01:52,710 - INFO - reminder with ID : 2 is added
+2025-12-05 09:01:52,710 - INFO - reminder with ID : 3 is added
+2025-12-05 09:01:52,710 - INFO - reminder with ID : 4 is added
+2025-12-05 09:02:44,558 - INFO - the program is started
+2025-12-05 09:02:44,559 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:02:44,559 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:02:44,559 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:02:44,559 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:02:44,559 - INFO - reminder with ID : 1 is added
+2025-12-05 09:02:44,559 - INFO - reminder with ID : 2 is added
+2025-12-05 09:02:44,559 - INFO - reminder with ID : 3 is added
+2025-12-05 09:02:44,559 - INFO - reminder with ID : 4 is added
+2025-12-05 09:03:11,414 - INFO - the program is started
+2025-12-05 09:03:11,416 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:03:11,416 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:03:11,417 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:03:11,417 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:03:11,417 - INFO - reminder with ID : 1 is added
+2025-12-05 09:03:11,417 - INFO - reminder with ID : 2 is added
+2025-12-05 09:03:11,417 - INFO - reminder with ID : 3 is added
+2025-12-05 09:03:11,417 - INFO - reminder with ID : 4 is added
+2025-12-05 09:04:00,997 - INFO - the program is started
+2025-12-05 09:04:00,999 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:04:01,000 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:04:01,000 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:04:01,000 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:04:01,000 - INFO - reminder with ID : 1 is added
+2025-12-05 09:04:01,000 - INFO - reminder with ID : 2 is added
+2025-12-05 09:04:01,000 - INFO - reminder with ID : 3 is added
+2025-12-05 09:04:01,000 - INFO - reminder with ID : 4 is added
+2025-12-05 09:04:10,446 - INFO - the program is started
+2025-12-05 09:04:10,448 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:04:10,449 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:04:10,449 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:04:10,450 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:04:10,450 - INFO - reminder with ID : 1 is added
+2025-12-05 09:04:10,450 - INFO - reminder with ID : 2 is added
+2025-12-05 09:04:10,450 - INFO - reminder with ID : 3 is added
+2025-12-05 09:04:10,450 - INFO - reminder with ID : 4 is added
+2025-12-05 09:04:39,639 - INFO - the program is started
+2025-12-05 09:04:39,640 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:04:39,640 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:04:39,641 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:04:39,641 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:04:39,641 - INFO - reminder with ID : 1 is added
+2025-12-05 09:04:39,641 - INFO - reminder with ID : 2 is added
+2025-12-05 09:04:39,641 - INFO - reminder with ID : 3 is added
+2025-12-05 09:04:39,641 - INFO - reminder with ID : 4 is added
+2025-12-05 09:05:02,293 - INFO - the program is started
+2025-12-05 09:05:02,295 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:05:02,295 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:05:02,295 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:05:02,295 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:05:02,295 - INFO - reminder with ID : 1 is added
+2025-12-05 09:05:02,295 - INFO - reminder with ID : 2 is added
+2025-12-05 09:05:02,295 - INFO - reminder with ID : 3 is added
+2025-12-05 09:05:02,295 - INFO - reminder with ID : 4 is added
+2025-12-05 09:11:38,740 - INFO - the program is started
+2025-12-05 09:11:38,741 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:11:38,741 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:11:38,741 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:11:38,741 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:11:38,741 - INFO - reminder with ID : 1 is added
+2025-12-05 09:11:38,741 - INFO - reminder with ID : 2 is added
+2025-12-05 09:11:38,741 - INFO - reminder with ID : 3 is added
+2025-12-05 09:11:38,741 - INFO - reminder with ID : 4 is added
+2025-12-05 09:14:33,019 - INFO - the program is started
+2025-12-05 09:14:33,020 - INFO - the new reminder is created - id = 1 , title = buy bread
+2025-12-05 09:14:33,020 - INFO - the new reminder is created - id = 2 , title = practice python
+2025-12-05 09:14:33,020 - INFO - the new reminder is created - id = 3 , title = meeting with backend developer
+2025-12-05 09:14:33,020 - INFO - the new reminder is created - id = 4 , title = meeting with no one
+2025-12-05 09:14:33,020 - INFO - reminder with ID : 1 is added
+2025-12-05 09:14:33,020 - INFO - reminder with ID : 2 is added
+2025-12-05 09:14:33,020 - INFO - reminder with ID : 3 is added
+2025-12-05 09:14:33,021 - INFO - reminder with ID : 4 is added

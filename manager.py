@@ -53,6 +53,7 @@ class ReminderManger():
                 self.logger.error("reminder with id_number : {data.reminder_id} has error :{e}")
 
     def group_reminder(self):
+        """groping them with their names"""
         if not self._reminders:
             print("There is no reminder here!")
             return

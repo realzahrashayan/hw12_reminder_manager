@@ -71,3 +71,12 @@ class ReminderManger():
             print(f"\n---{key}--")
             for reminder in value:
                 print(f"ID={reminder.reminder_id} | {reminder.title}  | {reminder.time}")
+
+
+
+    def reminder_types(self):#shows uniq reminder type
+        types = {r.__class__.__name__ for r in self._reminders}
+        print("Reminder types used:")
+        for t in types:
+            print(f"- {t}")
+        return types

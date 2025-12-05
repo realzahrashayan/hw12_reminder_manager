@@ -32,7 +32,7 @@ class ReminderManger():
         for each in self._reminders:
             print(f"[{each.reminder_id}] - {each.title} - {each.time}")
 
-    def find_by_id(self,remind_id):
+    def find_by_id(self,remind_id:int):
         for item in self._reminders:
             if item.reminder_id == remind_id:
                 return item

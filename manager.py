@@ -46,7 +46,7 @@ class ReminderManger():
             return
         
         for data in self._reminders:
-            self.logger.info("reminder with id_number : {data.reminder_id} is active")
+            self.logger.info("reminder with id_number : {data.reminder_id} is active!")
             try:
                 data.remind()
             except Exception as e :

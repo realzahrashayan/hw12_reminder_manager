@@ -41,7 +41,7 @@ class ReminderManger():
 
     def execute_all(self):
         if not self._reminders:
-            print(f"we dont hane any reminder!")
+            print(f"we dont hane any reminder please try again!")
             self.logger.warning(f"execte is called but there is no reminder! ")
             return
         
